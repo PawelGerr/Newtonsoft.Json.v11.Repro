@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonRepro10", "JsonRepro10\JsonRepro10.csproj", "{096DB28A-7E5D-41BA-9AA8-CA1C7BD2D22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLib", "SharedLib\SharedLib.csproj", "{F5604785-79C0-4F6A-945E-41783AD258A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonRepro11", "JsonRepro11\JsonRepro11.csproj", "{346CB846-F02C-4B62-9FB2-5B7CB5A2D09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096DB28A-7E5D-41BA-9AA8-CA1C7BD2D22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096DB28A-7E5D-41BA-9AA8-CA1C7BD2D22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096DB28A-7E5D-41BA-9AA8-CA1C7BD2D22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096DB28A-7E5D-41BA-9AA8-CA1C7BD2D22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5604785-79C0-4F6A-945E-41783AD258A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5604785-79C0-4F6A-945E-41783AD258A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5604785-79C0-4F6A-945E-41783AD258A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5604785-79C0-4F6A-945E-41783AD258A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346CB846-F02C-4B62-9FB2-5B7CB5A2D09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346CB846-F02C-4B62-9FB2-5B7CB5A2D09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346CB846-F02C-4B62-9FB2-5B7CB5A2D09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346CB846-F02C-4B62-9FB2-5B7CB5A2D09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
